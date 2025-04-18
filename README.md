@@ -32,7 +32,7 @@ A low GDP doesn't necessarily indicate low life expectancy. For example, in Chil
 • The same trend applies to life expectancy: all countries except Zimbabwe show consistent growth in life expectancy, while Zimbabwe experienced a decline until 2004, followed by explosive growth  
 
 #### Variables description  
-- **Country** - nation (6 nations totally)  
-- **Year** - the year for the observation (16 years totally, 2000–2015)  
-- **Expectancy** - life expectancy value in years  
-- **GDP** - Gross Domestic Product in billions of dollars
+- `Country`: nation (6 nations totally)  
+- `Year`: the year for the observation (16 years totally, 2000–2015)  
+- `Expectancy`: life expectancy value in years  
+- `GDP`: Gross Domestic Product in billions of dollars
