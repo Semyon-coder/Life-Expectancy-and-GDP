@@ -14,7 +14,7 @@ Data Source: Codecademy.com
 **Hypothesis:**  
 • There is a strong relationship between GDP and life expectancy in each country  
 
-#### Final conclusion  
+### Final conclusion  
 
 **Similarities among all countries:**  
 • There is a strong positive relationship between GDP and life expectancy. Life expectancy changes along with GDP  
